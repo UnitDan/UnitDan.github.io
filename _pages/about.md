@@ -37,11 +37,12 @@ I have published papers at the top international AI conferences such as WWW, SIG
 **Yuanhao Liu**, Qi Cao, Huawei Shen, Kaike Zhang, Yunfan Wu, Xueqi Cheng
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Designed auditing techniques to evaluate individual fairness in AI systems when access to model internals and training data is restricted, and developed substantiating frameworks for fairness violations.
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [PREP: Pre-training with temporal elapse inference for popularity prediction](https://dl.acm.org/doi/pdf/10.1145/3487553.3524249), Qi Cao, Huawei Shen, **Yuanhao Liu**, Jinhua Gao, Xueqi Cheng, **WWW 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
