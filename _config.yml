@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Liu Yuanhao（刘元浩）"
-description              : "I am Liu Yuanhao, a PhD candidate specializing in AI Safety. My research investigates the fairness of AI systems, with the aim of developing technologies that are fair, trustworthy, and socially responsible. This homepage collects my work, publications, and resources, and I welcome opportunities for collaboration."
+description              : "Focusing on AI fairness and auditing."
 repository               : "UnitDan/UnitDan.github.io"
 google_scholar_stats_use_cdn : true
 
