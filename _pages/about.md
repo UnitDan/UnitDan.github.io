@@ -48,9 +48,7 @@ I have published papers at the top international AI conferences such as WWW, SIG
 
 Huawei Shen, **Yuanhao Liu**, Kaike Zhang, Qi Cao, Xueqi Cheng
 
-[**Code**](https://github.com/UnitDan/IPL)
-- Redefined fairness on the item side of recommendations from the perspective of click volume. The method achieved a win–win between recommendation accuracy and fairness.
-- Recognized by the [WSDM 2025 Best Paper](https://dl.acm.org/doi/abs/10.1145/3701551.3703579) as a representative approach for popularity debiasing.
+- Reviewed the development of recommender systems and the accompanying security issues, particularly fairness, robustness, and filter bubble problems, and outlined future research directions.
 </div>
 </div>
 
@@ -70,16 +68,15 @@ Huawei Shen, **Yuanhao Liu**, Kaike Zhang, Qi Cao, Xueqi Cheng
 - [PREP: Pre-training with temporal elapse inference for popularity prediction](https://dl.acm.org/doi/abs/10.1145/3487553.3524249), Qi Cao, Huawei Shen, **Yuanhao Liu**, Jinhua Gao, Xueqi Cheng, **WWW 2022**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03* Excellent Student Award from the Institute of Computing Technology, Chinese Academy of Sciences. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - (now)*, Ph.D. Candidate, Institute of Computing Technology, Chinese Academy of Sciences.
+- *2016.09 - 2020.07*, B.Eng., School of Software, Nankai University.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.10*, CSCW 2025, Bergen, Norway.
+- *2023.07*, SIGIR 2023, online. 
+- *2023.06*, AIS 2023, Changsha, China.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
