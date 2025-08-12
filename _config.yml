@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Liu Yuanhao"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Liu Yuanhao（刘元浩）"
+description              : "I am Liu Yuanhao, a PhD candidate specializing in AI Safety. My research investigates the fairness of AI systems, with the aim of developing technologies that are fair, trustworthy, and socially responsible. This homepage collects my work, publications, and resources, and I welcome opportunities for collaboration."
 repository               : "UnitDan/UnitDan.github.io"
 google_scholar_stats_use_cdn : true
 
