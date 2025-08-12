@@ -36,13 +36,38 @@ I have published papers at the top international AI conferences such as WWW, SIG
 
 **Yuanhao Liu**, Qi Cao, Huawei Shen, Kaike Zhang, Yunfan Wu, Xueqi Cheng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**]()
 - Designed auditing techniques to evaluate individual fairness in AI systems when access to model internals and training data is restricted, and developed substantiating frameworks for fairness violations.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [PREP: Pre-training with temporal elapse inference for popularity prediction](https://dl.acm.org/doi/pdf/10.1145/3487553.3524249), Qi Cao, Huawei Shen, **Yuanhao Liu**, Jinhua Gao, Xueqi Cheng, **WWW 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Innovation</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Popularity debiasing from exposure to interaction in collaborative filtering](https://dl.acm.org/doi/abs/10.1145/3539618.3591947)
+
+**Yuanhao Liu**, Qi Cao, Huawei Shen, Yunfan Wu, Shuchang Tao, Xueqi Cheng
+
+[**Code**](https://github.com/UnitDan/IPL)
+- Redefined fairness on the item side of recommendations from the perspective of click volume. The method achieved a win–win between recommendation accuracy and fairness.
+- Recognized by the [WSDM 2025 Best Paper](https://dl.acm.org/doi/abs/10.1145/3701551.3703579) as a representative approach for popularity debiasing.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2023</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Popularity debiasing from exposure to interaction in collaborative filtering](https://dl.acm.org/doi/abs/10.1145/3539618.3591947)
+
+**Yuanhao Liu**, Qi Cao, Huawei Shen, Yunfan Wu, Shuchang Tao, Xueqi Cheng
+
+[**Code**](https://github.com/UnitDan/IPL)
+- Redefined fairness on the item side of recommendations from the perspective of click volume. The method achieved a win–win between recommendation accuracy and fairness.
+- Recognized by the [WSDM 2025 Best Paper](https://dl.acm.org/doi/abs/10.1145/3701551.3703579) as a representative approach for popularity debiasing.
+</div>
+</div>
+
+- [PREP: Pre-training with temporal elapse inference for popularity prediction](https://dl.acm.org/doi/abs/10.1145/3487553.3524249), Qi Cao, Huawei Shen, **Yuanhao Liu**, Jinhua Gao, Xueqi Cheng, **WWW 2022**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
