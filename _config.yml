@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Liu Yuanhao（刘元浩）"
+title                    : "Yuanhao Liu（刘元浩）"
 description              : "Focusing on AI fairness and auditing."
 repository               : "UnitDan/UnitDan.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Liu Yuanhao（刘元浩）"
+  name             : "Yuanhao Liu（刘元浩）"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences"
   location         : "Beijing, China"
