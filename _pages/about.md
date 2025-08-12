@@ -25,9 +25,7 @@ I have published papers <a href='https://scholar.google.com/citations?user=-zvUt
 
 
 # 🔥 News
-- *2025.10*: Invited talk at CSCW 2025, Bergen, Norway.
-// - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-// - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉 Invited talk at CSCW 2025, Bergen, Norway.
 
 # 📝 Publications 
 
