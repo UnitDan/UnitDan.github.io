@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanhao Liu（刘元浩）"
-description              : "Focusing on AI fairness and auditing."
+description              : "Interested in AI safety and auditing."
 repository               : "UnitDan/UnitDan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanhao Liu（刘元浩）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences"
+  bio              : "Institute of Computing Technology, CAS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
