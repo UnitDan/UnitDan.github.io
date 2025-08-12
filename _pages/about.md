@@ -21,7 +21,7 @@ I am Yuanhao Liu（刘元浩）, a Ph.D. candidate at the Institute of Computing
 
 My research investigates algorithmic fairness, with the aim of developing technologies that are fair, trustworthy, and socially responsible. Please feel free to email me at <a href='liuyuanhao.cn@gmail.com'>liuyuanhao.cn@gmail.com</a> for any form of academic communication or collaboration.
 
-I have published papers <a href='https://scholar.google.com/citations?user=-zvUt0wAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as WWW, SIGIR, CSCW.
+I have published papers <a href='https://scholar.google.com/citations?user=-zvUt0wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as WWW, SIGIR, CSCW.
 
 
 # 🔥 News
