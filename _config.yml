@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuanhao Liu（刘元浩）"
+  name             : "Yuanhao Liu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Institute of Computing Technology, CAS"
   location         : "Beijing, China"
