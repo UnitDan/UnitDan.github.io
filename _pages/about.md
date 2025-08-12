@@ -41,12 +41,12 @@ I have published papers at the top international AI conferences such as WWW, SIG
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Innovation</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Innovation</div><img src='images/innovation2025safety.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Popularity debiasing from exposure to interaction in collaborative filtering](https://dl.acm.org/doi/abs/10.1145/3539618.3591947)
+[The rising safety concerns of deep recommender systems](https://www.sciencedirect.com/science/article/pii/S2666675825002413)
 
-**Yuanhao Liu**, Qi Cao, Huawei Shen, Yunfan Wu, Shuchang Tao, Xueqi Cheng
+Huawei Shen, **Yuanhao Liu**, Kaike Zhang, Qi Cao, Xueqi Cheng
 
 [**Code**](https://github.com/UnitDan/IPL)
 - Redefined fairness on the item side of recommendations from the perspective of click volume. The method achieved a win–win between recommendation accuracy and fairness.
@@ -54,7 +54,7 @@ I have published papers at the top international AI conferences such as WWW, SIG
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2023</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2023</div><img src='images/sigir2023IPL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Popularity debiasing from exposure to interaction in collaborative filtering](https://dl.acm.org/doi/abs/10.1145/3539618.3591947)
