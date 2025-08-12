@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Liu Yuanhao, a PhD candidate specializing in AI Safety. My research investigates the fairness of AI systems, with the aim of developing technologies that are fair, trustworthy, and socially responsible. This homepage collects my work, publications, and resources, and I welcome opportunities for collaboration.
+I am Yuanhao Liu（刘元浩）, a Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences, affiliated with the National Key Laboratory of Intelligent Algorithm Security, under the supervision of Prof. Huawei Shen（沈华伟）. I received my B.Eng. degree in Software Engineering from the School of Software, Nankai University, in 2020.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research investigates algorithmic fairness, with the aim of developing technologies that are fair, trustworthy, and socially responsible. Please feel free to email me at <a href='liuyuanhao.cn@gmail.com'>liuyuanhao.cn@gmail.com</a> for any form of academic communication or collaboration.
+
+I have published papers <a href='https://scholar.google.com/citations?user=-zvUt0wAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as WWW, SIGIR, CSCW.
 
 
 # 🔥 News
