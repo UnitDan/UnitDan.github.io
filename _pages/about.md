@@ -32,6 +32,8 @@ I have published papers at the top international AI conferences such as WWW, SIG
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ijcai 2025</div><img src='images/ijcai2026radius.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<span class='anchor' id='consistency-radius'></span>
+
 [When Can We Trust Fairness Audits? Identifying Reliability Boundaries of Third-party Audit Conclusions]()
 
 **Yuanhao Liu**, Qi Cao, Huawei Shen
