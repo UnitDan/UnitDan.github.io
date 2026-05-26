@@ -29,10 +29,24 @@ I have published papers at the top international AI conferences such as WWW, SIG
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ijcai 2025</div><img src='images/ijcai2026radius.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When Can We Trust Fairness Audits? Identifying Reliability Boundaries of Third-party Audit Conclusions]()
+
+**Yuanhao Liu**, Qi Cao, Huawei Shen
+
+[**supplementary material**](files/ijcai2026appendix)
+- Addressed fairness fragility under distribution shifts by proposing the Consistency Radius. Proposed a convex relaxation-
+based estimator enables a blind auditing paradigm, bridging static evaluation and dynamic deployment without requiring
+sensitive user data.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/cscw2025substantiating.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-["I Know You Are Discriminatory!": Automated Substantiating for Individual Fairness Auditing of AI Systems](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+["I Know You Are Discriminatory!": Automated Substantiating for Individual Fairness Auditing of AI Systems](https://dl.acm.org/doi/abs/10.1145/3757414)
 
 **Yuanhao Liu**, Qi Cao, Huawei Shen, Kaike Zhang, Yunfan Wu, Xueqi Cheng
 
