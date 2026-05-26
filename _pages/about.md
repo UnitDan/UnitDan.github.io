@@ -28,22 +28,22 @@ I have published papers at the top international AI conferences such as WWW, SIG
 - *2025.10*: &nbsp;🎉 Paper accepted to ACM CSCW 2025.
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ijcai 2025</div><img src='images/ijcai2026radius.png' alt="sym" width="100%"></div></div>
 <span class='anchor' id='consistency-radius'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ijcai 2025</div><img src='images/ijcai2026radius.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When Can We Trust Fairness Audits? Identifying Reliability Boundaries of Third-party Audit Conclusions]()
 
 **Yuanhao Liu**, Qi Cao, Huawei Shen
 
-[**supplementary material**](../files/ijcai2026appendix.pdf)
+[**supplementary material**](../files/ijcai2026appendix.pdf)  [**code**]()
 - Addressed fairness fragility under distribution shifts by proposing the Consistency Radius. Proposed a convex relaxation-
 based estimator enables a blind auditing paradigm, bridging static evaluation and dynamic deployment without requiring
 sensitive user data.
 </div>
 </div>
 
+<span class='anchor' id='BUFF'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/cscw2025substantiating.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
