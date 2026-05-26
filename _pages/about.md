@@ -28,8 +28,10 @@ I have published papers at the top international AI conferences such as WWW, SIG
 - *2025.10*: &nbsp;🎉 Paper accepted to ACM CSCW 2025.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ijcai 2025</div><img src='images/ijcai2026radius.png' alt="sym" width="100%"></div></div>
+
 <span class='anchor' id='consistency-radius'></span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ijcai 2026</div><img src='images/ijcai2026radius.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When Can We Trust Fairness Audits? Identifying Reliability Boundaries of Third-party Audit Conclusions]()
