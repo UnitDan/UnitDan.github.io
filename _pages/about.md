@@ -38,7 +38,7 @@ I have published papers at the top international AI conferences such as WWW, SIG
 
 **Yuanhao Liu**, Qi Cao, Huawei Shen
 
-[**appendix**]() | [**code**]()
+[**appendix**]() | [**code**](https://github.com/UnitDan/fairness-audit-reliability)
 <!-- ../files/ijcai2026appendix.pdf -->
 - Addressed fairness fragility under distribution shifts by proposing the Consistency Radius. Proposed a convex relaxation-
 based estimator enables a blind auditing paradigm, bridging static evaluation and dynamic deployment without requiring
