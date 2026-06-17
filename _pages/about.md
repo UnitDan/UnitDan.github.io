@@ -38,8 +38,7 @@ I have published papers at the top international AI conferences such as WWW, SIG
 
 **Yuanhao Liu**, Qi Cao, Huawei Shen
 
-[**appendix**]() | [**code**](https://github.com/UnitDan/fairness-audit-reliability)
-<!-- ../files/ijcai2026appendix.pdf -->
+[**appendix**](../files/ijcai2026appendix.pdf) | [**code**](https://github.com/UnitDan/fairness-audit-reliability)
 - Addressed fairness fragility under distribution shifts by proposing the Consistency Radius. Proposed a convex relaxation-
 based estimator enables a blind auditing paradigm, bridging static evaluation and dynamic deployment without requiring
 sensitive user data.
@@ -55,7 +54,7 @@ sensitive user data.
 
 **Yuanhao Liu**, Qi Cao, Huawei Shen, Kaike Zhang, Yunfan Wu, Xueqi Cheng
 
-[**Code**]()
+[**Code**](https://github.com/UnitDan/substantiating)
 - Designed auditing techniques to evaluate individual fairness in AI systems when access to model internals and training data is restricted, and developed substantiating frameworks for fairness violations.
 </div>
 </div>
