@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yuanhao Liu（刘元浩）, a Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences, affiliated with the National Key Laboratory of Intelligent Algorithm Security, under the supervision of Prof. Huawei Shen（沈华伟）. I received my B.Eng. degree in Software Engineering from the School of Software, Nankai University, in 2020.
+I am **Yuanhao Liu (刘元浩)**, a Postdoctoral Researcher at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), affiliated with the National Key Laboratory of Intelligent Algorithm Security. I received my Ph.D. in Computer Science from ICT, CAS in 2026, under the supervision of Prof. Huawei Shen (沈华伟), and my B.Eng. degree in Software Engineering from Nankai University in 2020.
 
-My research investigates algorithmic fairness, with the aim of developing technologies that are fair, trustworthy, and socially responsible. Please feel free to email me at <a href='liuyuanhao.cn@gmail.com'>liuyuanhao.cn@gmail.com</a> for any form of academic communication or collaboration.
+My research focuses on **algorithm safety and trustworthy AI**, with particular interests in **algorithmic fairness, recommender system safety, algorithm auditing, and risk assessment and governance**. I am especially interested in understanding how algorithmic risks emerge and evolve in real-world intelligent systems, and in developing methods to **measure, identify, attribute, and mitigate** these risks.
 
-I have published papers at the top international AI conferences such as WWW, SIGIR, CSCW.
+My work has been published at venues including **WWW, SIGIR, CSCW, and IJCAI**, covering topics such as fairness auditing, popularity bias, recommender system safety, and reliability of algorithmic evaluations.
+
+Please feel free to contact me at <a href="mailto:liuyuanhao.cn@gmail.com">[liuyuanhao.cn@gmail.com](mailto:liuyuanhao.cn@gmail.com)</a> for academic discussions and collaborations.
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎓 Received my Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Sciences.
+- *2026.05: &nbsp;🎉 Paper accepted to IJCAI-ECAI 2026.
 - *2025.10*: &nbsp;🎉 Paper accepted to ACM CSCW 2025.
 
 # 📝 Publications 
@@ -88,13 +92,15 @@ Huawei Shen, **Yuanhao Liu**, Kaike Zhang, Qi Cao, Xueqi Cheng
 # 🎖 Honors and Awards
 - *2024.03* Excellent Student Award from the Institute of Computing Technology, Chinese Academy of Sciences. 
 
-# 📖 Educations
-- *2020.09 - (now)*, Ph.D. Candidate, Institute of Computing Technology, Chinese Academy of Sciences.
-- *2016.09 - 2020.07*, B.Eng., School of Software, Nankai University.
+# 📖 Education
+- *2020.09 - 2026.06*, Ph.D. in Computer Science, Institute of Computing Technology, Chinese Academy of Sciences.
+- *2016.09 - 2020.07*, B.Eng. in Software Engineering, Nankai University.
 
-# 💬 Invited Talks
+# 🎤 Talks & Presentations
+- *2026.08*, IJCAI-ECAI 2026, Bremen, Germany.
 - *2025.10*, CSCW 2025, Bergen, Norway.
-- *2023.07*, SIGIR 2023, online. 
+- *2023.07*, SIGIR 2023, Taipei, Taiwan / Online.
 - *2023.06*, AIS 2023, Changsha, China.
 
-# 💻 Internships
+# 💼 Experience
+- *2026.07 - Present*, Postdoctoral Researcher / Special Research Assistant, Institute of Computing Technology, Chinese Academy of Sciences.
