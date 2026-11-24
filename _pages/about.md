@@ -27,6 +27,7 @@ Please feel free to contact me at <a href="mailto:liuyuanhao.cn@gmail.com">[liuy
 
 
 # 🔥 News
+- *2026.11*: &nbsp;📢 I am co-organizing [HCRS@WWW 2027](https://hcrs2027.github.io/), the 3rd Workshop on Human-Centered Recommender Systems at The Web Conference 2027. [Call for Papers](https://hcrs2027.github.io/cfp.html) (submission deadline: January 4, 2027, AoE).
 - *2026.06*: &nbsp;🎓 Received my Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Sciences.
 - *2026.05: &nbsp;🎉 Paper accepted to IJCAI-ECAI 2026.
 - *2025.10*: &nbsp;🎉 Paper accepted to ACM CSCW 2025.
@@ -95,6 +96,9 @@ Huawei Shen, **Yuanhao Liu**, Kaike Zhang, Qi Cao, Xueqi Cheng
 # 📖 Education
 - *2020.09 - 2026.06*, Ph.D. in Computer Science, Institute of Computing Technology, Chinese Academy of Sciences.
 - *2016.09 - 2020.07*, B.Eng. in Software Engineering, Nankai University.
+
+# 📚 Academic Services
+- *2027*, Organizing Committee Member, [The 3rd Workshop on Human-Centered Recommender Systems (HCRS@WWW 2027)](https://hcrs2027.github.io/), The Web Conference 2027, Dublin, Ireland.
 
 # 🎤 Talks & Presentations
 - *2026.08*, IJCAI-ECAI 2026, Bremen, Germany.
